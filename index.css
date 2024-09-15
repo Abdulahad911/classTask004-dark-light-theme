@@ -1,0 +1,12 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#colorToggleBtn{
+    height: 60px;
+    width: 130px;
+    cursor: pointer;
+    text-align: center;
+    box-shadow: 1px 1px 1px grey;
+}
