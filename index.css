@@ -4,9 +4,14 @@ body{
     align-items: center;
 }
 #colorToggleBtn{
-    height: 60px;
-    width: 130px;
+    margin-top: 200px;
+    height: 40px;
+    width: 100px;
     cursor: pointer;
     text-align: center;
-    box-shadow: 1px 1px 1px grey;
+    box-shadow: 1px 1px 1px black;
+    border-radius: 5px;
+    background-color: red;
+    color: white;
+
 }
